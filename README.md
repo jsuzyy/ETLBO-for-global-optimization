@@ -1,1 +1,1 @@
-# ETLBO-for-large-scale-optimization-problems
+# ETLBO-for-global-optimization
